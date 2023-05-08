@@ -1,6 +1,6 @@
 # Linn
 
-Linn dá uma de moralista, mas sempre da a entender que ele envia informações da boca pra fora sem reciocinar ou é conivente com atrocidade, ataques e afins.
+Linn dá uma de moralista, mas sempre dar a entender que ele envia informações da boca pra fora sem reciocinar ou é conivente com atrocidade, ataques e afins.
 
 Na mente do Linn: "Nossa a squarecloud ou envolvidos, podem atacar concorrentes, difamar, criar servidor fake de Discord para difamar concorrentes, atacar o Instagram de concorrentes, atacar Endereço IP de concorrentes, conspirações ou acusações com base em achismos/falácias, disseminar informações dissimuladas, raidar servidores Discord e dentre outras atrocidades", quando concorrentes tem algum vazamento de dados em situações esporádicas que eventualmente já solucionaram e informaram sobre o ocorrido, pra ele é o FIM DO MUNDO.
 
