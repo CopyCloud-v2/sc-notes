@@ -6,7 +6,7 @@ Resumidamente é um serviço de hospedagem/host de aplicações.
 
 **Qual é o foco atual da equipe ou envolvidos da Square Cloud?**
 
-São várias, porém atualmente o foco deles é atacar serviços concorrentes, difamar, acusam com base em achismos/falácias, disseminam informações dissimuladas, "raidam" servidores de Discord com reações em massa, criam sites falsos/fakes com intuito de difamar a concorrência.
+São várias, porém atualmente o foco deles é atacar serviços concorrentes, difamar, acusam com base em achismos/falácias, disseminam informações dissimuladas, "raidam" servidores de Discord com reações em massa, criam sites falsos/fakes com intuito de difamar a concorrência e na maioria das vezes são conivente com ataques ou atrocidades.
 
 >algumas informações sobre os sites fakes estão citados [aqui]()
 
