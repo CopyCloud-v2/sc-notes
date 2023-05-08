@@ -8,7 +8,7 @@ Na mente do Linn: "Nossa a squarecloud ou envolvidos, podem atacar concorrentes,
 
 ## Linn: "DisCloud não se pronucioou sobre os ataques"
 
-`Linn` informou que estava lá no exato dia, se realmente estivesse lá, saberia dos avisos que a equipe da DisCloud fez e do ataque de raid que aconteceu, a raid deletou a maioria dos canais,cargos e afins.
+`Linn` informou que estava lá no exato dia, se realmente estivesse lá, saberia dos avisos que a equipe da DisCloud fez e do ataque de raid que aconteceu, a raid deletou a maioria dos canais, cargos e afins.
 
 ![](d1.png)
 ![](d2.png)
