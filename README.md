@@ -69,9 +69,11 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 Feedback foi realizado no servidor Discord da DisCloud
 
 🔗 https://i.imgur.com/4zbKAr5.png
+
 ![](https://i.imgur.com/4zbKAr5.png)
 
 🔗 https://i.imgur.com/zIUJns7.png
+
 ![](https://i.imgur.com/zIUJns7.png)
 
 **Qual deveria ser o foco da Square Cloud ou os demais envolvidos?**
