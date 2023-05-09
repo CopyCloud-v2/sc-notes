@@ -1,6 +1,7 @@
 Rafosto / Rafael 
 
 CEO da DisCloud quer conhecer o Rafosto pessoalmente, será que ele vai aceitar ou só é corajoso atrás de um dispositivo?
+
 ![](Rafosto.jpg)
 
 ---
