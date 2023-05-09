@@ -46,7 +46,7 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 * "Lavagem cerebral" em seus clientes afim de usar eles para atacar concorrentes
 * Fingem de desentendidos
 * Hipócrita
-* Não tem capacidade de pensar e se comportar com clareza ( dando a entender que a maioria tem esquizofrenia )
+* Não tem capacidade de pensar e se comportar com clareza.
 * Conspirações ou acusações com base em achismos/falácias
 * Disseminam informações dissimuladas
 * "Raidam" servidores Discord
