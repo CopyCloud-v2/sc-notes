@@ -17,3 +17,5 @@ Na mente do Linn: "Nossa a squarecloud ou envolvidos, podem atacar concorrentes,
 E em relação aos "feedbacks negativos apagados", além do ataque de raid que o servidor Discord da DisCloud recebeu, existe uma grande diferença entre feedback negativo, feedback com discurso de ódio, feedback sem nexo ( aqueles que só dizem asneiras afim de atacar e as vezes o usuário nem se quer usou o serviço ), crieo que o Linn estaja meio equivocado nas coisas que ele anda "bostejando" na web...
 
 ![](8.png)
+
+`fonte das imagens: servidor Discord da DisCloud e O Ferinha`
