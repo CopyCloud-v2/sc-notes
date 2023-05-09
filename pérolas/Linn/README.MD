@@ -18,4 +18,4 @@ E em relação aos "feedbacks negativos apagados", além do ataque de raid que o
 
 ![](8.png)
 
-`fonte das imagens: servidor Discord da DisCloud e O Ferinha`
+`informações adquiridas públicamente no servidor Discord da DisCloud e O Ferinha`
