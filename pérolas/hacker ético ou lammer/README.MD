@@ -1,4 +1,3 @@
-# Hacker ético ou lammer?
 ## FoxWaynne
 
 ![](FoxWaynne_2.png)
