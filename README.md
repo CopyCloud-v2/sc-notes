@@ -80,6 +80,6 @@ Feedback foi realizado no servidor Discord da DisCloud
 
 A Square Cloud ou os demais envolvidos deveria ter um foco próprio, ou seja, cuidar para melhorar o próprio serviço, não use esse tempo para ficar realizando ataques em concorrentes, não engane usuários com informações dissimuladas, não compre domínios com nomes semelhante da concorrência para ficar difamando e afins. 
 
-`ESSE ARTIGO SEMPRE SERÁ POSTADO INCANSAVELMENTE NA WEB TENDO AS MESMAS INFORMAÇÕES OU NOVAS, PORÉM VALE RESSALTAR QUE NÃO TENHO CONTROLE SOBRE AÇÕES ALHEIAS E COM ISSO OUTROS USUÁRIO PODEM BAIXAR ESSE ARTIGO E REPOSTAREM.`
+`ESSE ARTIGO SEMPRE SERÁ POSTADO INCANSAVELMENTE NA WEB TENDO AS MESMAS INFORMAÇÕES OU NOVAS, PORÉM VALE RESSALTAR QUE NÃO TENHO CONTROLE SOBRE AÇÕES ALHEIAS E COM ISSO OUTROS USUÁRIOS PODEM BAIXAR ESSE ARTIGO E REPOSTAREM.`
 
 `ISSO É APENAS A PONTA DO ICEBERG`
