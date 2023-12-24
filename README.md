@@ -87,3 +87,5 @@ A Square Cloud ou os demais envolvidos deveria ter um foco próprio, ou seja, cu
 `ESSE ARTIGO SEMPRE SERÁ POSTADO INCANSAVELMENTE NA WEB TENDO AS MESMAS INFORMAÇÕES OU NOVAS, PORÉM VALE RESSALTAR QUE NÃO TENHO CONTROLE SOBRE AÇÕES ALHEIAS E COM ISSO OUTROS USUÁRIOS PODEM BAIXAR ESSE ARTIGO E REPOSTAREM.`
 
 `ISSO É APENAS A PONTA DO ICEBERG`
+
+> algumas das evidências não podem ser publicadas nesse artigo, devido aos dados sensíveis e eventuais provas que podem ser utilizadas sob a investigação da DEIC ou Poder judiciário.
