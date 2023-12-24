@@ -58,8 +58,10 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 * Se realmente são íntegros no que dizem, por qual motivo houve a quebra de vários contratos / acordos em relação à concorrência?
 * Realizam Doxing em dados de clientes ou concorrentes para possíveis ataques?
 * Se realmente são íntegros no que dizem, por qual motivo diversos amigos / clientes deixaram de usar seus serviços para usar o serviço da concorrência? A maioria das informações que esses amigos / clientes disseram são: "Desavenças com o CEO do serviço e afins"
+* Se realmente são íntegros no que dizem, por qual motivo não assumem os próprios erros? Na maioria das vezes vitimizando, jogando a culpa em tercerios com o propósito de tirar o foco de vocês ou fingindo de desentendidos.
 * Realmente tem um foco íntegro perante ao próprio serviço ou preocupam em disseminar o ódio em concorrentes?
 * Acham que são invencíveis ou 100% anônimos, sempre que realizam ataques ( deixam rastros ou evidências ), qual é o motivo de ainda continuarem realizando ataques, para a concorrência juntar mais evidências?
+
 
 **Em relação aos ataques confira a lei**
 
