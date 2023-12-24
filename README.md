@@ -1,4 +1,6 @@
-**\[DISCLAIMER\]** Esse artigo contém informações públicas, ditas pela própria Square Cloud, relatos de usuários, acontecimentos em servidores Discord de comunidade ou serviços, websites, indagações e tem como intuito orientar os usuários sobre tais atrocidades, assim evitando que mais usuário sejam lesados. Assunto de **UTILIDADE PÚBLICA**, não há nenhum objetivo de difamação ou ataques. 
+**\[DISCLAIMER\]** O artigo em questão "github.com/web-notes/sc" contém informações públicas, ditas pela própria Square Cloud, relatos de usuários, acontecimentos em servidores Discord de comunidade ou serviços, websites, indagações e tem como intuito orientar os usuários sobre tais atrocidades, evitando que mais usuário sejam lesados. Assunto de **UTILIDADE PÚBLICA**, não há nenhum objetivo de difamação ou ataques. 
+
+Reservo o direito de arquivar ou privatizar esse repositório se a parte envolvida "Square Cloud" relatar todas as atrocidades em uma página em seu website de forma que seja acessível ao público ( sem nenhuma limitação ), deixando um botão da página em questão destacado na página principal do site. 
 
 **O que é Square Cloud?**
 
