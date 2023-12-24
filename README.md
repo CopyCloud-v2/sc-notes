@@ -54,7 +54,6 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 * Usam o dinheiro de doadores para financiar ataques em concorrentes? 
   - 🔗 https://i.imgur.com/y9xkqQq.png
   - 🔗  https://i.imgur.com/uCebZdP.png
-* Se realmente são íntegros no que dizem, por qual motivo privatizaram alguns posts do Reddit que vocês mesmo publicaram? Medo de que mais pessoas descubram tais atrocidades?
 * Se realmente são íntegros no que dizem, por qual motivo disseminam informações dissimuladas?
 * Se realmente são íntegros no que dizem, por qual motivo houve a quebra de vários contratos / acordos em relação à concorrência?
 * Realizam Doxing em dados de clientes ou concorrentes para possíveis ataques?
