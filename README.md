@@ -85,6 +85,8 @@ Feedback foi realizado no servidor Discord da DisCloud
 
 A Square Cloud ou os demais envolvidos deveria ter um foco próprio, ou seja, cuidar para melhorar o próprio serviço, não use esse tempo para ficar realizando ataques em concorrentes, não engane usuários com informações dissimuladas, não compre domínios com nomes semelhante da concorrência para ficar difamando e afins. 
 
+Todos são suscetíveis a erros, errar é humano, reconhecer o erro é uma dádiva / virtude, para que haja uma boa impressão perante aos clientes e terceiros, a parte envolvida tem que assumir os próprios erros, serem transparentes, aprender com os erros e não repeti-los. Se não há mudanças ou aprendizado, então não há maturidade, caráter e afins. 
+
 `ESSE ARTIGO SEMPRE SERÁ POSTADO INCANSAVELMENTE NA WEB TENDO AS MESMAS INFORMAÇÕES OU NOVAS, PORÉM VALE RESSALTAR QUE NÃO TENHO CONTROLE SOBRE AÇÕES ALHEIAS E COM ISSO OUTROS USUÁRIOS PODEM BAIXAR ESSE ARTIGO E REPOSTAREM.`
 
 > algumas das evidências não podem ser publicadas nesse artigo, devido aos dados sensíveis e eventuais provas que podem ser utilizadas sob a investigação da DEIC ("Departamento Estadual de Investigações Criminais") ou Poder judiciário.
