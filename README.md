@@ -10,7 +10,7 @@ São várias, porém atualmente o foco deles é atacar serviços concorrentes, d
 
 >algumas informações sobre os sites fakes estão citados [aqui](https://github.com/web-notes/sc/tree/34058e688f72326572a682136664b6249b2eee4e/p%C3%A9rolas/Quantos%20sites%20fakes%20v%C3%A3o%20criar%20usando%20o%20nome%20da%20DisCloud)
 
-Algumas das informações ditas anteriormente estão registradas em um post que eles publicaram sobre suas atitudes repudiáveis ( [**0 Dossiê da Square Cloud : squarecloud1**](https://www.reddit.com/user/squarecloud1/comments/vvtqrk/0_dossi%C3%AA_da_square_cloud/) ), alguns desses acontecimentos vem ocorrendo atualmente.
+Algumas das informações ditas anteriormente estão registradas em um post que eles publicaram sobre suas atitudes repudiáveis ( [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud) ), alguns desses acontecimentos vem ocorrendo atualmente.
 
 Quando CEO's desses serviços que estão sendo atacados enviam informações idônea sobre alguns acontecimentos, eles fingem de desentendidos, não tem a capacidade de pensar e se comportar com clareza mesmo depois de ter recebidos as informações, certamente só querem atacar e difamar.
 
@@ -20,7 +20,7 @@ Quando CEO's desses serviços que estão sendo atacados enviam informações id�
 
 A equipe da Square Cloud preza muita pela transparência, porém dar a entender que há uma certa hipocrisia/inconsistência por parte deles e de alguns envolvidos, porém não vou entrar em detalhes para o artigo não ficar muito extenso.
 
-Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squarecloud1**](https://www.reddit.com/user/squarecloud1/comments/vvtqrk/0_dossi%C3%AA_da_square_cloud/), diziam que não tinha nenhum envolvimento com os ataques, o que pode se perceber que é mentira, sempre fingem que não tem nenhum tipo de envolvimento com os ataques, já são experts em se vitimizarem.
+Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud), diziam que não tinha nenhum envolvimento com os ataques, o que pode se perceber que é mentira, sempre fingem que não tem nenhum tipo de envolvimento com os ataques, já são experts em se vitimizarem.
 
 **Logo da Square Cloud é um plágio ou coincidência?**
 
@@ -32,7 +32,7 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 
 ![](https://i.imgur.com/mSBZwTb.png)
 
-**Com base em informações do artigo (** [**0 Dossiê da Square Cloud : squarecloud1**](https://www.reddit.com/user/squarecloud1/comments/vvtqrk/0_dossi%C3%AA_da_square_cloud/) **), acontecimentos atuais, relatos de usuários que usaram a Square Cloud e DisCloud, acontecimentos em servidores de Discord e afins.**
+**Com base em informações do artigo (** [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud) **), acontecimentos atuais, relatos de usuários que usaram a Square Cloud e DisCloud, acontecimentos em servidores de Discord e afins.**
 
 **Square Cloud:**
 
