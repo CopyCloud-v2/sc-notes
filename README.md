@@ -69,6 +69,7 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 * Acham que são 100% anônimos, sempre que realizam ataques ( deixam rastros ou evidências ), qual é o motivo de ainda continuarem realizando ataques, para a concorrência registrar mais evidências dos ataques?
 > caso haja uma ação judical, pelos meus conhecimentos, para comprovar que todas as evidências não são verdadeiras será uma tarefa difícil, já que a verdade prevalecerá.
 
+> indagações são perguntas / reflexões, não caracteriza afirmações ou acusações.
 
 **Em relação aos ataques confira a lei**
 
