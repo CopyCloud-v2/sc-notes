@@ -1,4 +1,4 @@
-**\[DISCLAIMER\]** Esse artigo contém informações públicas, ditas pela própria Square Cloud, relatos de usuários, acontecimentos em servidores Discord de comunidade ou serviços, websites, indagações e tem como intuito orientar os usuários sobre tais atrocidades, assim evitando que mais usuário sejam lesados sobre tais atos. Assunto de **UTILIDADE PÚBLICA**, não há nenhum objetivo de difamação ou ataques. 
+**\[DISCLAIMER\]** Esse artigo contém informações públicas, ditas pela própria Square Cloud, relatos de usuários, acontecimentos em servidores Discord de comunidade ou serviços, websites, indagações e tem como intuito orientar os usuários sobre tais atrocidades, assim evitando que mais usuário sejam lesados. Assunto de **UTILIDADE PÚBLICA**, não há nenhum objetivo de difamação ou ataques. 
 
 **Quem é Square Cloud?**
 
