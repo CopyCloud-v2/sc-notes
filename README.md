@@ -8,7 +8,7 @@ Resumidamente é um serviço de hospedagem/host de aplicações.
 
 São várias, porém atualmente o foco deles é atacar serviços concorrentes, difamar, acusam com base em achismos/falácias, disseminam informações dissimuladas, "raidam" servidores de Discord com reações em massa, criam sites falsos/fakes com intuito de difamar a concorrência e na maioria das vezes são conivente com ataques ou atrocidades.
 
->algumas informações sobre os sites fakes estão citados [aqui](https://github.com/CopyCloud-v2/verdadeira-face/tree/main/pérolas/Quantos%20sites%20fakes%20vão%20criar%20usando%20o%20nome%20da%20DisCloud)
+>algumas informações sobre os sites fakes estão citados [aqui](https://github.com/CopyCloud-v2/sc-notes/tree/dbeaebb35a753f12a0d35f18f3396c8312aa9b01/p%C3%A9rolas/Quantos%20sites%20fakes%20v%C3%A3o%20criar%20usando%20o%20nome%20da%20DisCloud)
 
 Algumas das informações ditas anteriormente estão registradas em um post que eles publicaram sobre suas atitudes repudiáveis ( [**0 Dossiê da Square Cloud : squarecloud1**](https://www.reddit.com/user/squarecloud1/comments/vvtqrk/0_dossi%C3%AA_da_square_cloud/) ), alguns desses acontecimentos vem ocorrendo atualmente.
 
