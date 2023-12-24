@@ -88,4 +88,4 @@ A Square Cloud ou os demais envolvidos deveria ter um foco próprio, ou seja, cu
 
 `ISSO É APENAS A PONTA DO ICEBERG`
 
-> algumas das evidências não podem ser publicadas nesse artigo, devido aos dados sensíveis e eventuais provas que podem ser utilizadas sob a investigação da DEIC ou Poder judiciário.
+> algumas das evidências não podem ser publicadas nesse artigo, devido aos dados sensíveis e eventuais provas que podem ser utilizadas sob a investigação da DEIC ("Departamento Estadual de Investigações Criminais") ou Poder judiciário.
