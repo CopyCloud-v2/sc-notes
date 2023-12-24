@@ -52,6 +52,7 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 * "Raidam" servidores Discord
 * Gerenciada por grande parte de adolescentes ou "adultos" imaturos, com ego inflado, acham que são melhores mesmo com diversas atrocidades cometida por parte deles ou envolvidos.
 * [Moderador da Square Cloud faz ataque DoS à concorrente em call](https://youtu.be/papdpFDwN9Y)
+* Contém diversas evidências relacinado ao crime de stalking ( 147-A ) 
 
 **INDAGAÇÕES PERANTE A SQUARE CLOUD:**
 * Usam o dinheiro de doadores para financiar ataques em concorrentes? 
