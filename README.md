@@ -62,7 +62,7 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 * Se realmente são íntegros no que dizem, por qual motivo não assumem os próprios erros? Na maioria das vezes vitimizando, jogando a culpa em tercerios com o propósito de tirar o foco de vocês ou fingindo de desentendidos.
 * Realmente tem um foco íntegro perante ao próprio serviço ou preocupam em disseminar o ódio em concorrentes?
 * Acham que são 100% anônimos, sempre que realizam ataques ( deixam rastros ou evidências ), qual é o motivo de ainda continuarem realizando ataques, para a concorrência registrar mais evidências dos ataques?
-> pelos meus conhecimentos, garanto que para comprovar que todas as evidências não são verdadeiras será uma tarefa difícil, já que a verdade prevalecerá.
+> caso haja uma ação judical, pelos meus conhecimentos, para comprovar que todas as evidências não são verdadeiras será uma tarefa difícil, já que a verdade prevalecerá.
 
 
 **Em relação aos ataques confira a lei**
