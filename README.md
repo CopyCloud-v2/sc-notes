@@ -1,4 +1,4 @@
-**\[DISCLAIMER\]** Esse artigo contém informações públicas, ditas pela própria Square Cloud, relatos de usuários, acontecimentos em servidores Discord, websites, indagações e tem como intuito orientar os usuários sobre tais atrocidades. 
+**\[DISCLAIMER\]** Esse artigo contém informações públicas, ditas pela própria Square Cloud, relatos de usuários, acontecimentos em servidores Discord de comunidade ou serviços, websites, indagações e tem como intuito orientar os usuários sobre tais atrocidades, assim evitando que mais usuário sejam lesados sobre tais atos. Assunto de **UTILIDADE PÚBLICA**, não há nenhum objetivo de difamação ou ataques. 
 
 **Quem é Square Cloud?**
 
@@ -42,21 +42,25 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 * Atacou o Instagram de concorrentes
 * Ataques abusivos na API de concorrentes
 * Atacou Endereço IP de concorrentes
-* Enganam os clientes
+* Enganam os clientes, fingem de desentendidos, hipócrita e são coniventes com a maioria dos ataques
 * "Lavagem cerebral" em seus clientes afim de usar eles para atacar concorrentes
-* Fingem de desentendidos
-* Hipócrita
 * Não tem capacidade de pensar e se comportar com clareza.
 * Conspirações ou acusações com base em achismos/falácias
 * Disseminam informações dissimuladas
 * "Raidam" servidores Discord
-* Eles realmente tem um foco íntegro perante ao próprio serviço ou preocupam em disseminar o ódio em concorrentes?
+* Gerenciada por grande parte de adolescentes ou "adultos" imaturos, com ego inflado, acham que são melhores mesmo com diversas atrocidades cometida por parte deles ou envolvidos.
+
+**INDAGAÇÕES PERANTE A SQUARE CLOUD:**
 * Usam o dinheiro de doadores para financiar ataques em concorrentes? 
   - 🔗 https://i.imgur.com/y9xkqQq.png
   - 🔗  https://i.imgur.com/uCebZdP.png
-* Realizam Doxing em dados de clientes ou concorrentes?
-* Gerenciada por grande parte de adolescentes ou "adultos" imaturos, com ego inflado, acham que são melhores mesmo com diversas atrocidades cometida por parte deles ou envolvidos.
-* Acham que são invencíveis ou 100% anônimos, sempre que realizam ataques ( deixam rastros ou evidências )
+* Se realmente são íntegros no que dizem, por qual motivo privatizaram alguns posts do Reddit que eles mesmo publicaram? Medo de que mais pessoas descubram tais atrocidades?
+* Se realmente são íntegros no que dizem, por qual motivo disseminam informações dissimuladas?
+* Se realmente são íntegros no que dizem, por qual motivo houve a quebra de vários contratos / acordos em relação à concorrência?
+* Realizam Doxing em dados de clientes ou concorrentes para possíveis ataques?
+* Se realmente são íntegros no que dizem, por qual motivo diversos amigos / clientes deixaram de usar seus serviços para usar o serviço da concorrência? A maioria das informações que esses amigos / clientes disseram são: "Desavenças com o CEO do serviço e afins"
+* Eles realmente tem um foco íntegro perante ao próprio serviço ou preocupam em disseminar o ódio em concorrentes?
+* Acham que são invencíveis ou 100% anônimos, sempre que realizam ataques ( deixam rastros ou evidências ), qual é o motivo de ainda continuarem realizando ataques?
 
 **Em relação aos ataques confira a lei**
 
