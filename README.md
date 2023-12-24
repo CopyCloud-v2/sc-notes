@@ -60,7 +60,7 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 * Realizam Doxing em dados de clientes ou concorrentes para possíveis ataques?
 * Se realmente são íntegros no que dizem, por qual motivo diversos amigos / clientes deixaram de usar seus serviços para usar o serviço da concorrência? A maioria das informações que esses amigos / clientes disseram são: "Desavenças com o CEO do serviço e afins"
 * Eles realmente tem um foco íntegro perante ao próprio serviço ou preocupam em disseminar o ódio em concorrentes?
-* Acham que são invencíveis ou 100% anônimos, sempre que realizam ataques ( deixam rastros ou evidências ), qual é o motivo de ainda continuarem realizando ataques, para que a concorrência juntar mais evidências?
+* Acham que são invencíveis ou 100% anônimos, sempre que realizam ataques ( deixam rastros ou evidências ), qual é o motivo de ainda continuarem realizando ataques, para a concorrência juntar mais evidências?
 
 **Em relação aos ataques confira a lei**
 
