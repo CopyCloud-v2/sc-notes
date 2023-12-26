@@ -1,4 +1,4 @@
-**\[DISCLAIMER\]** O artigo em questão "github.com/web-notes/sc" contém informações públicas, ditas pela própria Square Cloud, relatos de usuários, acontecimentos em servidores Discord de comunidade ou serviços, websites, indagações e tem como intuito orientar os usuários sobre tais atrocidades, evitando que mais usuário sejam lesados. Assunto de **UTILIDADE PÚBLICA**, não há nenhum objetivo de difamação ou ataques.
+**\[DISCLAIMER\]** O artigo em questão "github.com/web-notes/sc" contém informações públicas, ditas pela própria Square Cloud, relatos de usuários, acontecimentos em servidores Discord de comunidade ou serviços, websites, indagações e tem como intuito orientar aos usuários leitores sobre tais atrocidades, evitando que mais usuário sejam lesados. Assunto de **UTILIDADE PÚBLICA**, não há nenhum objetivo de difamação ou ataques.
 
 Reservo o direito de arquivar ou privatizar esse repositório se a parte envolvida "Square Cloud" relatar todas as atrocidades em uma página em seu website de forma que seja acessível ao público ( sem nenhuma limitação ), deixando um botão da página em questão destacado na página principal do site.
 
@@ -10,21 +10,21 @@ Resumidamente é um serviço de hospedagem/host de aplicações.
 
 **Qual é o foco atual da equipe ou envolvidos da Square Cloud?**
 
-São várias, porém atualmente o foco deles é atacar serviços concorrentes, difamar, acusam com base em achismos/falácias, disseminam informações dissimuladas, "raidam" servidores de Discord com reações em massa, criam sites falsos/fakes com intuito de difamar a concorrência e na maioria das vezes são conivente com ataques ou atrocidades.
+São várias, porém atualmente o foco deles é atacar serviços concorrentes, difamar, acusam com base em achismos e falácias, disseminam informações dissimuladas, "raidam" servidores de Discord com reações em massa, criam sites falsos ( fake ou semelhante ) com intuito de difamar a concorrência e na maioria das vezes são conivente com ataques ou atrocidades.
 
 >algumas informações sobre os sites fakes estão citados [aqui](https://github.com/web-notes/sc/tree/34058e688f72326572a682136664b6249b2eee4e/p%C3%A9rolas/Quantos%20sites%20fakes%20v%C3%A3o%20criar%20usando%20o%20nome%20da%20DisCloud)
 
-Algumas das informações ditas anteriormente estão registradas em um post que eles publicaram sobre suas atitudes repudiáveis ( [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud) ), alguns desses acontecimentos vem ocorrendo atualmente.
+Algumas das informações ditas anteriormente estão registradas em um post que eles publicaram sobre suas atitudes repudiáveis ( [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud) ), alguns desses acontecimentos vem ocorrendo atualmente ( quebra de contrato ).
 
 Quando CEO's desses serviços que estão sendo atacados enviam informações idônea sobre alguns acontecimentos, eles fingem de desentendidos, não tem a capacidade de pensar e se comportar com clareza mesmo depois de ter recebidos as informações, certamente só querem atacar e difamar.
 
->artigos que fazem referência com situações como essas são conhecidas como [Efeito Dunning–Kruger](https://pt.wikipedia.org/wiki/Efeito_Dunning%E2%80%93Kruger) ou [Esquizofrenia](https://pt.wikipedia.org/wiki/Esquizofrenia)
+> artigos que fazem referência com situações como essas são conhecidas como [Efeito Dunning–Kruger](https://pt.wikipedia.org/wiki/Efeito_Dunning%E2%80%93Kruger) ou [Esquizofrenia](https://pt.wikipedia.org/wiki/Esquizofrenia)
 
 **Transparência da Square Cloud**
 
-A equipe da Square Cloud preza muita pela transparência, porém dar a entender que há uma certa hipocrisia/inconsistência por parte deles e de alguns envolvidos, porém não vou entrar em detalhes para o artigo não ficar muito extenso.
+A equipe da Square Cloud preza muita pela transparência, porém dar a entender que há uma certa hipocrisia ou inconsistência por parte deles e de alguns envolvidos, porém não vou entrar em detalhes para o artigo não ficar muito extenso.
 
-Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud), diziam que não tinha nenhum envolvimento com os ataques, o que pode se perceber que é mentira, sempre fingem que não tem nenhum tipo de envolvimento com os ataques, já são experts em se vitimizarem.
+Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud), diziam que não tinha nenhum envolvimento com os ataques, o que pode se perceber que é mentira, sempre fingem que não tem nenhum tipo de envolvimento com os ataques, já são experts em se vitimizarem ou manipular informações.
 
 **Logo da Square Cloud é um plágio ou coincidência?**
 
@@ -36,7 +36,9 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 
 ![](https://i.imgur.com/mSBZwTb.png)
 
-**Com base em informações do artigo (** [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud) **), acontecimentos atuais, relatos de usuários que usaram a Square Cloud e DisCloud, acontecimentos em servidores de Discord e afins.**
+**Com base em informações do artigo (** [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud) **), acontecimentos atuais, relatos de usuários que usaram ambos os serviços, acontecimentos em mídias sociais e afins.**
+
+> as informações abaixo, são definições com base em informações públicas cuja a parte envolvida compartilhou em seus respectivos servidores, redes sociais ou relatos de usuários ( feedback & denúncias ).
 
 **Square Cloud:**
 
@@ -60,16 +62,17 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 * Usam o dinheiro de doadores para financiar ataques em concorrentes? 
   - 🔗 https://i.imgur.com/y9xkqQq.png
   - 🔗  https://i.imgur.com/uCebZdP.png
-* Se realmente são íntegros no que dizem, por qual motivo disseminam informações dissimuladas?
-* Se realmente são íntegros no que dizem, por qual motivo houve a quebra de vários contratos / acordos em relação à concorrência?
-* Realizam Doxing em dados de clientes ou concorrentes para possíveis ataques?
-* Se realmente são íntegros no que dizem, por qual motivo diversos amigos / clientes deixaram de usar seus serviços para usar o serviço da concorrência? A maioria das informações que esses amigos / clientes disseram são: "Desavenças com o CEO do serviço e afins"
-* Se realmente são íntegros no que dizem, por qual motivo não assumem os próprios erros? Na maioria das vezes vitimizando, jogando a culpa em tercerios com o propósito de tirar o foco de vocês ou fingindo de desentendidos.
+* Se realmente são íntegros no que dizem ou defendem, por qual motivo disseminam informações dissimuladas?
+* Se realmente são íntegros no que dizem ou defendem, por qual motivo houve a quebra de vários contratos ou acordos em relação à concorrência?
+* Realizam Doxing em dados de usuários ou concorrentes para possíveis ataques?
+* Se realmente são íntegros no que dizem ou defendem, por qual motivo diversos amigos e clientes deixaram de usar seus serviços para usar o serviço da concorrência? A maioria das informações que esses amigos e clientes disseram são: "Desavenças com o CEO do serviço e afins"
+* Se realmente são íntegros no que dizem ou defendem, por qual motivo não assumem os próprios erros? Na maioria das vezes vitimizando, jogando a culpa em tercerios com o propósito de tirar o foco de vocês...
 * Realmente tem um foco íntegro perante ao próprio serviço ou preocupam em disseminar o ódio em concorrentes?
 * Acham que são 100% anônimos, sempre que realizam ataques ( deixam rastros ou evidências ), qual é o motivo de ainda continuarem realizando ataques, para a concorrência registrar mais evidências dos ataques?
-> caso haja uma ação judical, pelos meus conhecimentos, para comprovar que todas as evidências não são verdadeiras será uma tarefa difícil, já que a verdade prevalecerá.
 
-> indagações são perguntas / reflexões, não caracteriza afirmações ou acusações.
+> caso haja uma ação judical, pelos meus conhecimentos, para comprovar que todas as evidências não são verdadeiras será uma tarefa difícil, já que a verdade prevalecerá, além das diversas evidências, testemunhas e afins.
+
+> indagações são perguntas ou perguntas retóricas, não caracteriza afirmações ou acusações.
 
 **Em relação aos ataques confira a lei**
 
@@ -93,7 +96,7 @@ Feedback foi realizado no servidor Discord da DisCloud
 
 A Square Cloud ou os demais envolvidos deveria ter um foco próprio, ou seja, cuidar para melhorar o próprio serviço, não use esse tempo para ficar realizando ataques em concorrentes, não engane usuários com informações dissimuladas, não compre domínios com nomes semelhante da concorrência para ficar difamando...
 
-Todos são suscetíveis a erros, errar é humano, reconhecer o erro é uma dádiva / virtude, para que haja uma boa impressão perante aos clientes e terceiros, a parte envolvida deveria assumir os próprios erros, serem transparentes, aprender com os erros e não repeti-los. Se não há mudanças ou aprendizado, então não há maturidade, caráter e discernimento para deduzir a conduta alheia.
+Todos são suscetíveis a erros, errar é humano, reconhecer o erro é uma dádiva e virtude, para que haja uma boa impressão perante aos clientes e terceiros, a parte envolvida deveria assumir os próprios erros, serem transparentes, aprender com os erros e não repeti-los. Se não há mudanças ou aprendizado, então não há maturidade, caráter e discernimento para deduzir a conduta alheia.
 
 `ESSE ARTIGO SEMPRE SERÁ POSTADO INCANSAVELMENTE NA WEB TENDO AS MESMAS INFORMAÇÕES OU NOVAS, PORÉM VALE RESSALTAR QUE NÃO TENHO CONTROLE SOBRE AÇÕES ALHEIAS E COM ISSO OUTROS USUÁRIOS PODEM BAIXAR ESSE ARTIGO E REPOSTAREM.`
 
