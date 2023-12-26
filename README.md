@@ -8,23 +8,25 @@ Reservo o direito de arquivar ou privatizar esse repositório se a parte envolvi
 
 Resumidamente é um serviço de hospedagem/host de aplicações.
 
-**Qual é o foco atual da equipe ou envolvidos da Square Cloud?**
+**Contextualizando as atrocidades da Square Cloud ou envolvidos**
 
-São várias, porém atualmente o foco deles é atacar serviços concorrentes, difamar, acusam com base em achismos e falácias, disseminam informações dissimuladas, "raidam" servidores de Discord com reações em massa, criam sites falsos ( fake ou semelhante ) com intuito de difamar a concorrência e na maioria das vezes são conivente com ataques ou atrocidades.
+São várias, porém atualmente o foco é atacar concorrentes, difamar, acusam com base em achismos e falácias, disseminam informações dissimuladas, "raidam" servidores de Discord com reações em massa, criam sites falsos ( fake ou semelhante da concorrência ) com intuito de difamar e na maioria das vezes são conivente com ataques ou atrocidades.
 
->algumas informações sobre os sites fakes estão citados [aqui](https://github.com/web-notes/sc/tree/34058e688f72326572a682136664b6249b2eee4e/p%C3%A9rolas/Quantos%20sites%20fakes%20v%C3%A3o%20criar%20usando%20o%20nome%20da%20DisCloud)
+>algumas informações sobre os sites falsos estão listados [aqui](https://github.com/web-notes/sc/tree/34058e688f72326572a682136664b6249b2eee4e/p%C3%A9rolas/Quantos%20sites%20fakes%20v%C3%A3o%20criar%20usando%20o%20nome%20da%20DisCloud)
 
 Algumas das informações ditas anteriormente estão registradas em um post que eles publicaram sobre suas atitudes repudiáveis ( [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud) ), alguns desses acontecimentos vem ocorrendo atualmente ( quebra de contrato ).
 
-Quando CEO's desses serviços que estão sendo atacados enviam informações idônea sobre alguns acontecimentos, eles fingem de desentendidos, não tem a capacidade de pensar e se comportar com clareza mesmo depois de ter recebidos as informações, certamente só querem atacar e difamar.
+Quando CEO's desses serviços que estão sendo atacados enviam informações idônea sobre alguns acontecimentos que provam ao contrário, eles fingem de desentendidos, não tem a capacidade de pensar e se comportar com clareza mesmo depois de ter recebido as informações, certamente só querem atacar e difamar.
 
 > artigos que fazem referência com situações como essas são conhecidas como [Efeito Dunning–Kruger](https://pt.wikipedia.org/wiki/Efeito_Dunning%E2%80%93Kruger) ou [Esquizofrenia](https://pt.wikipedia.org/wiki/Esquizofrenia)
 
 **Transparência da Square Cloud**
 
-A equipe da Square Cloud preza muita pela transparência, porém dar a entender que há uma certa hipocrisia ou inconsistência por parte deles e de alguns envolvidos, porém não vou entrar em detalhes para o artigo não ficar muito extenso.
+A equipe da Square Cloud preza muita pela transparência, porém dar a entender que há uma certa hipocrisia ou inconsistência por parte deles e de alguns envolvidos, porém não vou entrar em detalhes para o artigo não ficar muito extenso, a maioria das evidências listadas aqui já são suficientes para demonstrar tal inconsistência. 
 
-Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud), diziam que não tinha nenhum envolvimento com os ataques, o que pode se perceber que é mentira, sempre fingem que não tem nenhum tipo de envolvimento com os ataques, já são experts em se vitimizarem ou manipular informações.
+Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squarecloud1**](https://github.com/web-notes/sc/tree/main/p%C3%A9rolas/Dossi%C3%AA%20da%20Square%20Cloud), diziam que não tinha nenhum envolvimento com os ataques, já é outra inconsistência, sempre fingem que não tem nenhum tipo de envolvimento com os ataques, já são experts em se vitimizarem ou manipular informações.
+
+> informar que não há nenhum envolvimento com os ataques, não vai impedir a chegada de evidências ou denúncias de usuários para a concorrência, com isso vão descobrir que é mais outra afirmação falsa...
 
 **Logo da Square Cloud é um plágio ou coincidência?**
 
@@ -72,7 +74,7 @@ Antes de relatarem os ataques do Instagram em [**0 Dossiê da Square Cloud : squ
 
 > caso haja uma ação judical, pelos meus conhecimentos, para comprovar que todas as evidências não são verdadeiras será uma tarefa difícil, já que a verdade prevalecerá, além das diversas evidências, testemunhas e afins.
 
-> indagações são perguntas ou perguntas retóricas, não caracteriza afirmações ou acusações.
+> indagações são perguntas ou "perguntas retóricas", não caracteriza afirmações ou acusações.
 
 **Em relação aos ataques confira a lei**
 
